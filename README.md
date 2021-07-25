@@ -4,7 +4,7 @@ Let's Grow More Virtual Internship Programme for August 2021 on the topic of Dat
 
 ### Task List
 
-| S.No | Task Details | Link | 
+| S.No | Task Description | Link | 
 |------|--------------|------|
 |  1  | Iris Flower Classification using Supervised ML | [Task 1](https://github.com/MainakRepositor/LGMVIPAUG-21/blob/master/Iris_Classification_Supervised_ML.ipynb) | 
 |  2  | Stock Market Analysis using LSTM | [Task 2](https://github.com/MainakRepositor/LGMVIPAUG-21/blob/master/Stock_Market_Analysis_using_LSTM_.ipynb) |
